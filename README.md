@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 <p align="center"> 
-  <img src="https://molletichiruvishalportfolio.netlify.app/static/media/mypic.11ac27a29e341c464d3e.jpeg" alt="Molleti Chiru Vishal" /> 
+  <img src="https://molletichiruvishalportfolio.netlify.app/static/media/mypic.11ac27a29e341c464d3e.jpeg" alt="Molleti Chiru Vishal" width="200" /> 
 </p>
 
 <p align="center">
