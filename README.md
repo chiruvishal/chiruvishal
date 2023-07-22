@@ -63,7 +63,7 @@ Hello! I'm Molleti Chiru Vishal, a passionate full-stack developer based in Indi
 
 - 📧 Email: MolletiChiruVishal@gmail.com
 - 🌐 Portfolio: [Your Portfolio URL](https://molletichiruvishalportfolio.netlify.app/)
-- [LinkedIn]([your-linkedin-profile-url](https://www.linkedin.com/in/molleti-chiru-vishal-683447202/))
-- [Instagram]([your-twitter-profile-url](https://www.instagram.com/chiru_vishal_molleti/))
+- [LinkedIn](https://www.linkedin.com/in/molleti-chiru-vishal-683447202/)
+- [Instagram](https://www.instagram.com/chiru_vishal_molleti/)
 
 Feel free to reach out to me via email or connect with me on LinkedIn and Twitter. Let's stay in touch!
